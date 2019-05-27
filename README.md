@@ -2,11 +2,11 @@
 
 ## InfluxDB v2.0 中文文档
 
-文档不断完善中，如果感觉对亲有帮助，请给个**star！**  
+文档不断完善中，如果感觉对亲有帮助，请给个**star！❥\(^\_-\)**  
   
-项目地址: [https://github.com/xtutu/influxdb-handbook](https://github.com/xtutu/influxdb-handbook)
+项目地址: [https://github.com/7sen/influxdb-handbook](https://github.com/7sen/influxdb-handbook)
 
-手册在线地址: [https://www.gitbook.com/read/book/xtutu/influxdb-handbook](https://www.gitbook.com/read/book/xtutu/influxdb-handbook)
+文档地址: [https://7sen.gitbook.io/influxdb-handbook](https://7sen.gitbook.io/influxdb-handbook/)
 
 作者Github: [https://github.com/7sen](https://github.com/7sen)
 
